@@ -5,14 +5,22 @@ Software Engineer focused on building reliable, scalable SaaS products.
 ## Projects
 
 ### Eventra
+
 Feature tracking for SaaS products.  
 Understand feature adoption and identify underused functionality.
 
 https://eventra.dev
 
+Eventra platform includes:
+
+- JavaScript SDK
+- Analytics dashboard
+- Event ingestion pipeline
+- Analytics infrastructure
+
+### Open Source
+
 - eventra-sdk — JavaScript SDK
-- dashboard — analytics dashboard
-- ingest — event ingestion pipeline
 
 ## Tech Stack
 
