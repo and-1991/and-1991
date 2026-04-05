@@ -1,16 +1,18 @@
-## Hi there 👋
+# Building Eventra
 
-<!--
-**and-1991/and-1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feature tracking for SaaS
 
-Here are some ideas to get you started:
+https://eventra.dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- eventra-sdk
+- eventra-dashboard
+- eventra-ingest
+
+## Stack
+
+- Next.js
+- NestJS
+- PostgreSQL
+- Prisma
