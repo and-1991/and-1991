@@ -1,18 +1,32 @@
-# Building Eventra
+# Hi, I'm Jura
 
-Feature tracking for SaaS
-
-https://eventra.dev
+Software Engineer focused on building reliable, scalable SaaS products.
 
 ## Projects
 
-- eventra-sdk
-- eventra-dashboard
-- eventra-ingest
+### Eventra
+Feature tracking for SaaS products.  
+Understand feature adoption and identify underused functionality.
 
-## Stack
+https://eventra.dev
 
-- Next.js
+- eventra-sdk — JavaScript SDK
+- dashboard — analytics dashboard
+- ingest — event ingestion pipeline
+
+## Tech Stack
+
+- TypeScript
+- Node.js
 - NestJS
+- Next.js
 - PostgreSQL
 - Prisma
+
+## Focus Areas
+
+- SaaS Architecture
+- Event-driven systems
+- Analytics pipelines
+- Multi-tenant systems
+- Performance & reliability
