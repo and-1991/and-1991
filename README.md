@@ -1,40 +1,78 @@
 # Hi, I'm Jura
 
-Software Engineer focused on building reliable, scalable SaaS products.
+Software Engineer building **Eventra** after work.
 
-## Projects
+Eventra is a feature analytics platform focused on understanding which features users actually use.
 
-### Eventra
+---
 
-Feature tracking for SaaS products.  
-Understand feature adoption and identify underused functionality.
+# Eventra
+
+Eventra consists of three parts:
+
+### SDK
+
+Track feature usage in your app
+
+https://github.com/and-1991/eventra-sdk
+
+### CLI
+
+Scan your codebase and find tracked events
+
+https://github.com/and-1991/eventra-cli
+
+### Dashboard
+
+Feature analytics platform
 
 https://eventra.dev
 
-Eventra platform includes:
+---
 
-- JavaScript SDK
-- Analytics dashboard
-- Event ingestion pipeline
-- Analytics infrastructure
+# Why I'm Building Eventra
 
-### Open Source
+When building products, it's hard to understand:
 
-- eventra-sdk — JavaScript SDK
+* Which features users actually use
+* Which features nobody uses
+* What can be safely removed
 
-## Tech Stack
+Eventra tries to solve this.
 
-- TypeScript
-- Node.js
-- NestJS
-- Next.js
-- PostgreSQL
-- Prisma
+SDK shows what **happened**
+CLI shows what **exists**
 
-## Focus Areas
+Together they detect **dead features**.
 
-- SaaS Architecture
-- Event-driven systems
-- Analytics pipelines
-- Multi-tenant systems
-- Performance & reliability
+---
+
+# Tech Stack
+
+* TypeScript
+* Node.js
+* NestJS
+* PostgreSQL
+* Prisma
+* React
+
+---
+
+# Current Status
+
+* Dashboard — production-ready
+* SDK — stable
+* CLI — early version (0.0.4)
+
+---
+
+# Links
+
+Website
+https://eventra.dev
+
+SDK
+https://www.npmjs.com/package/@eventra_dev/eventra-sdk
+
+CLI
+https://www.npmjs.com/package/@eventra_dev/eventra-cli
