@@ -28,6 +28,18 @@ Feature analytics platform
 
 https://eventra.dev
 
+### Examples
+
+Full working projects for frontend, backend and edge runtimes
+
+https://github.com/and-1991/eventra-examples
+
+### Docs
+
+Code snippets for quick integration
+
+https://github.com/and-1991/eventra-docs
+
 ---
 
 # Why I'm Building Eventra
