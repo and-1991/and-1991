@@ -22,6 +22,14 @@ Scan your codebase and find tracked events
 
 https://github.com/and-1991/eventra-cli
 
+### CLI Plugins
+
+Framework support for the CLI — Vue, Svelte, Astro
+
+https://github.com/and-1991/eventra-cli-plugin-vue
+https://github.com/and-1991/eventra-cli-plugin-svelte
+https://github.com/and-1991/eventra-cli-plugin-astro
+
 ### Dashboard
 
 Feature analytics platform
@@ -74,7 +82,7 @@ Together they detect **dead features**.
 
 * Dashboard — production-ready
 * SDK — stable
-* CLI — early version (0.0.4)
+* CLI — stable, semantic analysis + wrapper propagation, plugin system for Vue, Svelte, Astro
 
 ---
 
@@ -88,3 +96,8 @@ https://www.npmjs.com/package/@eventra_dev/eventra-sdk
 
 CLI
 https://www.npmjs.com/package/@eventra_dev/eventra-cli
+
+CLI Plugins
+https://www.npmjs.com/package/@eventra_dev/cli-plugin-vue
+https://www.npmjs.com/package/@eventra_dev/cli-plugin-svelte
+https://www.npmjs.com/package/@eventra_dev/cli-plugin-astro
