@@ -10,6 +10,7 @@ Software engineer building **[Eventra](https://eventra.dev)** after work - a fea
 [![CLI Vue plugin npm](https://img.shields.io/npm/v/@eventra_dev/cli-plugin-vue?label=cli-plugin-vue&style=flat-square&color=blue&logo=npm&logoColor=white)](https://www.npmjs.com/package/@eventra_dev/cli-plugin-vue)
 [![CLI Svelte plugin npm](https://img.shields.io/npm/v/@eventra_dev/cli-plugin-svelte?label=cli-plugin-svelte&style=flat-square&color=blue&logo=npm&logoColor=white)](https://www.npmjs.com/package/@eventra_dev/cli-plugin-svelte)
 [![CLI Astro plugin npm](https://img.shields.io/npm/v/@eventra_dev/cli-plugin-astro?label=cli-plugin-astro&style=flat-square&color=blue&logo=npm&logoColor=white)](https://www.npmjs.com/package/@eventra_dev/cli-plugin-astro)
+[![CLI Angular plugin npm](https://img.shields.io/npm/v/@eventra_dev/cli-plugin-angular?label=cli-plugin-angular&style=flat-square&color=blue&logo=npm&logoColor=white)](https://www.npmjs.com/package/@eventra_dev/cli-plugin-angular)
 
 </div>
 
