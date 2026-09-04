@@ -39,6 +39,7 @@ No runtime magic. No monkey-patching. It reads source code, it reads events, and
 | **CLI Plugin - Vue** | Vue/Nuxt SFC support for the CLI | [repo](https://github.com/and-1991/eventra-cli-plugin-vue) | [![npm](https://img.shields.io/npm/v/@eventra_dev/cli-plugin-vue?style=flat-square&label=)](https://www.npmjs.com/package/@eventra_dev/cli-plugin-vue) |
 | **CLI Plugin - Svelte** | Svelte/SvelteKit support for the CLI | [repo](https://github.com/and-1991/eventra-cli-plugin-svelte) | [![npm](https://img.shields.io/npm/v/@eventra_dev/cli-plugin-svelte?style=flat-square&label=)](https://www.npmjs.com/package/@eventra_dev/cli-plugin-svelte) |
 | **CLI Plugin - Astro** | Astro support for the CLI | [repo](https://github.com/and-1991/eventra-cli-plugin-astro) | [![npm](https://img.shields.io/npm/v/@eventra_dev/cli-plugin-astro?style=flat-square&label=)](https://www.npmjs.com/package/@eventra_dev/cli-plugin-astro) |
+| **CLI Plugin - Angular** | Angular for the CLI | [repo](https://github.com/and-1991/eventra-cli-plugin-angular) | [![npm](https://img.shields.io/npm/v/@eventra_dev/cli-plugin-angular?style=flat-square&label=)](https://www.npmjs.com/package/@eventra_dev/cli-plugin-angular) |
 | **Dashboard** | The analytics platform itself | - | [eventra.dev](https://eventra.dev) |
 | **Examples** | Full working example projects - frontend, backend, edge runtimes | [repo](https://github.com/and-1991/eventra-examples) | - |
 | **Docs** | Code snippets for quick integration | [repo](https://github.com/and-1991/eventra-docs) | - |
@@ -51,7 +52,7 @@ No runtime magic. No monkey-patching. It reads source code, it reads events, and
 |---|---|
 | Dashboard | Production-ready |
 | SDK | Stable - batching, retry + backoff, circuit breaker, idempotent delivery |
-| CLI | Stable - semantic analysis, wrapper propagation, plugin ecosystem for Vue / Svelte / Astro |
+| CLI | Stable - semantic analysis, wrapper propagation, plugin ecosystem for Vue / Svelte / Astro / Angular |
 
 ---
 
